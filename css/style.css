@@ -73,7 +73,7 @@ body {
 }
 
 .view-header {
-	background: #d11e42;
+	background: #d0ab72;
 	margin: 0px;
 }
 
@@ -103,7 +103,7 @@ body {
 }
 
 .view-header .navbar-nav > .active > a, .view-header .navbar-nav > .active > a:hover, .view-header .navbar-nav > li > a:hover, .view-header .navbar-nav > .active > a:focus {
-	color: #d11e42;
+	color: #d0ab72;
 	background: #fff;
 	padding: 5px 18px;
 	border-radius: 20px;
@@ -116,13 +116,13 @@ body {
 /** Main View Nav **/
 
 .navbar-default .navbar-nav > li > a, .navbar-default .navbar-nav > li > a:focus {
-	color: #d11e42;
+	color: #d0ab72;
 	padding: 5px 18px;
 	font-family: "din alternate medium";
 }
 
 .navbar-default .navbar-nav > li > a.icon:hover, .navbar-default .navbar-nav > li > a.icon:focus {
-	color: #d11e42;
+	color: #d0ab72;
 	padding: 5px 18px;
 	font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
 	background: transparent;
@@ -135,7 +135,7 @@ body {
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > .active > a:focus {
 	color: #fff;
-	background: #d11e42;
+	background: #d0ab72;
 	padding: 5px 18px;
 	border-radius: 20px;
 }
@@ -191,7 +191,7 @@ body {
 .topnav .input_search:focus {
 	cursor: text;
 	width: 150px;
-	background: #d11e42;
+	background: #d0ab72;
 	margin-top:-100px;
 	color: #f2f2f2;
 	transition: all ease-in-out 0.2s;
@@ -204,7 +204,7 @@ body {
 
 .topnav .input_search.white:focus {
 	background: #fff;
-	color: #d11e42;
+	color: #d0ab72;
 }
 
 .pop-content {
@@ -217,7 +217,7 @@ body {
 
 
 a {
-  color: #F14E95;
+  color: #FCDDB0;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -241,17 +241,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #F14E95;
+  background: #FCDDB0;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #F14E95;
+  background: #FCDDB0;
 }
 
 ::selection {
   color: #fff;
-  background: #F14E95;
+  background: #FCDDB0;
 }
 
 .fh5co-nav {
@@ -284,7 +284,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .fh5co-nav a {
   padding: 5px 10px;
-  color: #F14E95;
+  color: #FCDDB0;
 }
 @media screen and (max-width: 768px) {
   .fh5co-nav .menu-1, .fh5co-nav .menu-2 {
@@ -312,7 +312,7 @@ h1, h2, h3, h4, h5, h6, figure {
   transition: 0.5s;
 }
 .fh5co-nav ul li a:hover, .fh5co-nav ul li a:focus, .fh5co-nav ul li a:active {
-  color: #F14E95;
+  color: #FCDDB0;
   background-color: rgba(0, 0, 0, 0.3);
 }
 .fh5co-nav ul li.has-dropdown {
@@ -330,7 +330,7 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 40px;
   left: 0;
   text-align: left;
-  background: #F14E95;
+  background: #FCDDB0;
   padding: 20px;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
