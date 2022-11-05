@@ -1058,8 +1058,8 @@ form label {
 #fh5co-counter .display-tc .btn,
 .fh5co-cover .display-tc .btn {
   padding: 15px 20px;
-  background: #fff !important;
-  color: #FCDDB0;
+  background: rgb(232, 230, 230) !important;
+  color: #edcc9b;
   border: none !important;
   font-size: 14px;
   text-transform: uppercase;
@@ -1852,7 +1852,7 @@ form label {
 
 .btn-primary {
   background: #FCDDB0;
-  color: #fff;
+  color: rgb(231, 229, 229);
   border: 2px solid #FCDDB0;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
@@ -1866,7 +1866,7 @@ form label {
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
   background: #FCDDB0;
-  color: #fff;
+  color: rgb(234, 234, 234);
 }
 
 .btn-success {
