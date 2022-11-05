@@ -1059,7 +1059,7 @@ form label {
 .fh5co-cover .display-tc .btn {
   padding: 15px 20px;
   background: #fff !important;
-  color: #F14E95;
+  color: #FCDDB0;
   border: none !important;
   font-size: 14px;
   text-transform: uppercase;
@@ -1361,7 +1361,7 @@ form label {
   margin-bottom: 10px;
   line-height: 1.5;
   font-weight: bold;
-  color: #F14E95;
+  color: #FCDDB0;
   font-family: "Sacramento", Arial, serif;
 }
 @media screen and (max-width: 768px) {
@@ -1851,21 +1851,21 @@ form label {
 }
 
 .btn-primary {
-  background: #F14E95;
+  background: #FCDDB0;
   color: #fff;
-  border: 2px solid #F14E95;
+  border: 2px solid #FCDDB0;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #f366a3 !important;
-  border-color: #f366a3 !important;
+  background: #FCDDB0 !important;
+  border-color: #FCDDB0 !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #F14E95;
-  border: 2px solid #F14E95;
+  color: #FCDDB0;
+  border: 2px solid #FCDDB0;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #F14E95;
+  background: #FCDDB0;
   color: #fff;
 }
 
@@ -1995,7 +1995,7 @@ form label {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #F14E95;
+  border-color: #FCDDB0;
 }
 
 .row-pb-md {
